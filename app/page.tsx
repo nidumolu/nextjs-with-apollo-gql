@@ -29,6 +29,7 @@ export default function Home({ }) {
 
         <div className={styles.grid}>
          Test Country...
+         <Countries></Countries>
         </div>
       </main>
 
